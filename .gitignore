@@ -1,0 +1,7 @@
+# Created 2026-05-17
+
+# VS Code
+.vscode
+
+# Python
+__pycache__
